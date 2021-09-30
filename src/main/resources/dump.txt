@@ -1,0 +1,1 @@
+{"A1":{"value":"Value","ttl":3}}
